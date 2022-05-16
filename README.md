@@ -11,7 +11,7 @@ Choose the Ideal Site for Designing Your Restaurant Using Data Science
 Site analysis has a major role in placing a building, especially shopping malls,Shops, restaurant. Here we are trying to find some insights that help us to place our restaurant based on food type we are serving, characteristics of people who lives there, financial stability of people, demographic characteristics of the place, labor force etc.The analysis not only help owners to find ideal sites but also people to enjoy their favorite foods. Here the project tries to find locations of restaurants in Boston,is the capital and most populous city of the Commonwealth of Massachusetts in the United States. 
 
 
-![alt text](https://raw.githubusercontent.com/vivekalex61/restaurant_casestudy_boston/blob/main/images/boston_intro.jpeg)
+![alt text](https://raw.githubusercontent.com/vivekalex61/restaurant_casestudy_boston/main/images/boston_intro.jpeg)
 
 ## Overview 
 - Datasets and Data-Loading
@@ -40,22 +40,22 @@ Boston in Context- Neighborhoods compares the United States, Massachusetts,Bosto
  2)Scaling of  features
 
 
-![alt text](https://raw.githubusercontent.com/vivekalex61/restaurant_casestudy_boston/blob/main/images/rest_data_info.png)
+![alt text](https://raw.githubusercontent.com/vivekalex61/restaurant_casestudy_boston/main/images/rest_data_info.png)
 
 
 
 ### Visualization of data after the preprocessing 
 
-![alt text](https://raw.githubusercontent.com/vivekalex61/restaurant_casestudy_boston/blob/main/images/boston_map.png)
+![alt text](https://raw.githubusercontent.com/vivekalex61/restaurant_casestudy_boston/main/images/boston_map.png)
 
                 Visualizing the Boston map
 
-![alt text](https://raw.githubusercontent.com/vivekalex61/restaurant_casestudy_boston/blob/main/images/pop_densit_wt_rest.png)
+![alt text](https://raw.githubusercontent.com/vivekalex61/restaurant_casestudy_boston/main/images/pop_densit_wt_rest.png)
 
                 Visualizing the population density
 
 
-![alt text](https://raw.githubusercontent.com/vivekalex61/restaurant_casestudy_boston/blob/main/images/res_density_wt_rest.png)
+![alt text](https://raw.githubusercontent.com/vivekalex61/restaurant_casestudy_boston/main/images/res_density_wt_rest.png)
 
                 Visualizing the restaurant locations
 
@@ -77,54 +77,54 @@ visualizing the clusters using parallel coordinate plot (ref: https://www.data-t
 Parallel plots of clusters
 
 
-![alt text](https://raw.githubusercontent.com/vivekalex61/restaurant_casestudy_boston/blob/main/images/parallel_plot_rest.png)
+![alt text](https://raw.githubusercontent.com/vivekalex61/restaurant_casestudy_boston/main/images/parallel_plot_rest.png)
 
 
 
-![alt text](https://raw.githubusercontent.com/vivekalex61/restaurant_casestudy_boston/blob/main/images/paralle_plo_rest_cent.png)
+![alt text](https://raw.githubusercontent.com/vivekalex61/restaurant_casestudy_boston/main/images/paralle_plo_rest_cent.png)
 
 
 #### 2)Principle Component Analysis
 
 Eigen vector analysis :
 
-![alt text](https://raw.githubusercontent.com/vivekalex61/restaurant_casestudy_boston/blob/main/images/eigen_vector_rest.png)
+![alt text](https://raw.githubusercontent.com/vivekalex61/restaurant_casestudy_boston/main/images/eigen_vector_rest.png)
 
 Eigen value analysis:
 
-![alt text](https://raw.githubusercontent.com/vivekalex61/restaurant_casestudy_boston/blob/main/images/eigen_analysis_rest.png)
+![alt text](https://raw.githubusercontent.com/vivekalex61/restaurant_casestudy_boston/main/images/eigen_analysis_rest.png)
 
 Principal component 1:
 
-![alt text](https://raw.githubusercontent.com/vivekalex61/restaurant_casestudy_boston/blob/main/images/pc1_rest_b.png)
+![alt text](https://raw.githubusercontent.com/vivekalex61/restaurant_casestudy_boston/main/images/pc1_rest_b.png)
 
 Places selected on basis of PC1:
 
-![alt text](https://raw.githubusercontent.com/vivekalex61/restaurant_casestudy_boston/blob/main/images/pc1_rest.png)
+![alt text](https://raw.githubusercontent.com/vivekalex61/restaurant_casestudy_boston/main/images/pc1_rest.png)
 
 Principal component 2:
 
-![alt text](https://raw.githubusercontent.com/vivekalex61/restaurant_casestudy_boston/blob/main/images/pc2_rest_b.png)
+![alt text](https://raw.githubusercontent.com/vivekalex61/restaurant_casestudy_boston/main/images/pc2_rest_b.png)
 
 Places selected on basis of PC2:
 
-![alt text](https://raw.githubusercontent.com/vivekalex61/restaurant_casestudy_boston/blob/main/images/pc2_rest.png)
+![alt text](https://raw.githubusercontent.com/vivekalex61/restaurant_casestudy_boston/main/images/pc2_rest.png)
 
 Principal component 3:
 
-![alt text](https://raw.githubusercontent.com/vivekalex61/restaurant_casestudy_boston/blob/main/images/pc3_rest_b.png)
+![alt text](https://raw.githubusercontent.com/vivekalex61/restaurant_casestudy_boston/main/images/pc3_rest_b.png)
 
 Places selected on basis of PC3:
 
-![alt text](https://raw.githubusercontent.com/vivekalex61/restaurant_casestudy_boston/blob/main/images/pc3_rest.png)
+![alt text](https://raw.githubusercontent.com/vivekalex61/restaurant_casestudy_boston/main/images/pc3_rest.png)
 
 Loading plot of PC1 and PC2 :
 
-![alt text](https://raw.githubusercontent.com/vivekalex61/restaurant_casestudy_boston/blob/main/images/loading_plot_rest.png)
+![alt text](https://raw.githubusercontent.com/vivekalex61/restaurant_casestudy_boston/main/images/loading_plot_rest.png)
 
 Bi-plot of PC1 and PC2 :
 
-![alt text](https://raw.githubusercontent.com/vivekalex61/restaurant_casestudy_boston/blob/main/images/biplot_rest.png)
+![alt text](https://raw.githubusercontent.com/vivekalex61/restaurant_casestudy_boston/main/images/biplot_rest.png)
 
 
 
